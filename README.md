@@ -16,6 +16,8 @@ See the [full changelog](/CHANGELOG.md) for release details.
 ## Install
 If you just want to use fca-huykaiser, you should use this command:
 ```bash
+npm i fca-huykaiser
+
 npm install fca-huykaiser
 ```
 It will download `fca-huykaiser` from NPM repositories
