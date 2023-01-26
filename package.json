@@ -8,10 +8,10 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "fca-disme",
+  "name": "fca-huykaiser",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/D-Jukie/fca-disme.git"
+    "url": "git+https://github.com/huykaiserUwU/fca-huykaiser.git"
   },
   "scripts": {
     "lint": "eslint **.js",
