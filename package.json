@@ -18,7 +18,7 @@
     "prettier": "prettier utils.js src/* --write",
     "test": "mocha"
   },
-  "version": "3.9.7",
+  "version": "3.9.8",
   "description": "This repo is a fork from main repo and will usually have new features bundled faster than main repo (and maybe bundle some bugs, too).",
   "bugs": {
     "url": "https://github.com/CHIP2502/fca-zaaraowo/issues"
