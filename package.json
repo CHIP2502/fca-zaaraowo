@@ -8,15 +8,23 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "fca-huykaiser",
+  "name": "fca-zaaraowo",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huykaiserUwU/fca-huykaiser.git"
+    "url": "git+https://github.com/CHIP2502/fca-zaaraowo.git"
   },
   "scripts": {
     "lint": "eslint **.js",
     "prettier": "prettier utils.js src/* --write",
     "test": "mocha"
   },
-  "version": "1.3.17"
+  "version": "3.9.7",
+  "description": "This repo is a fork from main repo and will usually have new features bundled faster than main repo (and maybe bundle some bugs, too).",
+  "bugs": {
+    "url": "https://github.com/CHIP2502/fca-zaaraowo/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "author": "Nguyen Van An X ZaaraOwO"
 }
